@@ -1,7 +1,9 @@
-<h1 align="center">Welcome to Nexulyze 👋</h1>
 <p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Nexulyze Logo" width="150" />
+  <img src="logo-trnsp.png" alt="Nexulyze Logo" width="150" />
 </p>
+
+<h1 align="center">Welcome to Nexulyze 👋</h1>
+
 <h3 align="center">Crafting Smart, Scalable, and Future-Ready Tech Solutions</h3>
 
 <p align="center">
@@ -17,7 +19,7 @@ At **Nexulyze**, we specialize in crafting modern, scalable, and efficient techn
 - 💡 **What we do:** Full-Stack Development • DevOps & Automation • Cloud Architecture • IT Consulting  
 - 🚀 **Our mission:** To simplify technology and accelerate digital transformation for businesses worldwide.  
 - 🤝 **Who we work with:** Startups, growing companies, and enterprise teams that value quality and agility.  
-- 🌐 **Connect with us:** [nexulyze.com](https://nexulyze.com) | hello@nexulyze.com  
+- 🌐 **Connect with us:** [nexulyze.com](https://nexulyze.com) | info@nexulyze.com  
 
 ---
 
@@ -63,7 +65,7 @@ We believe in the power of great software, smart automation, and scalable infras
 ### 🤝 Let’s Work Together
 
 Have a project or idea in mind?  
-📩 Reach out to us at **hello@nexulyze.com**  
+📩 Reach out to us at **info@nexulyze.com**  
 🌐 Visit: [nexulyze.com](https://nexulyze.com)
 
 ---
