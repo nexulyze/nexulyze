@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-trnsp.png" alt="Nexulyze Logo" width="150" />
+  <img src="logo-2026-nobg.png" alt="Nexulyze Logo" width="150" />
 </p>
 
 <h1 align="center">Welcome to Nexulyze 👋</h1>
